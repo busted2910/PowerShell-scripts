@@ -1,7 +1,7 @@
 ﻿############################################################################
 ##                                                                        ##
 ## Date: June 10. 2024                                                    ##
-## Author: Peter Busted                                                            ##
+## Author: Peter Busted                                                   ##
 ##                                                                        ##
 ## Add all Room mailboxes to "Room mailboxes" AD Group                    ##
 ## Disable all Room mailboxes                                             ##
@@ -40,7 +40,7 @@ catch {
 try
 {
     "Logging in to Exchange Online..."
-    $organization = "templafy.onmicrosoft.com"
+    $organization = "xxx.onmicrosoft.com"
     Connect-ExchangeOnline -ManagedIdentity -Organization $organization
 
 }
