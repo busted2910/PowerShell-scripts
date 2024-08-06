@@ -7,11 +7,6 @@ Please note that I take no responsibility for any issues that may arise from usi
 **Usage:**  
 You are free to use, modify, and distribute these scripts as you see fit. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Your contributions are welcome!
 
-**How to Use:**  
-Browse the Repository: Navigate through the repository to find the script that suits your needs.
-Download the Script: Click on the script file to view its contents, and then download it to your local machine.
-Execute the Script: Run the script using PowerShell. Make sure to review the code and understand what it does before executing it.
-
 **License:**  
 Feel free to use these scripts for personal or commercial use. No attribution required.
 
