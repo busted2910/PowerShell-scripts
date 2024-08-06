@@ -1,7 +1,7 @@
 ﻿############################################################################
 ##                                                                        ##
 ## Date: June 10. 2024                                                    ##
-## Author: PBU                                                            ##
+## Author: Peter Busted                                                   ##
 ##                                                                        ##
 ## Add all Room mailboxes to "Room mailboxes" AD Group                    ##
 ## Disable all Room mailboxes                                             ##
